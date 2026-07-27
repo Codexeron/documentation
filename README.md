@@ -1,19 +1,32 @@
-Official Documentation
+# 📚 Codexeron Documentation
 
-Authentication
+Welcome to the official documentation of Codexeron.
 
-API
+Codexeron is a global marketplace where developers can buy and sell source code, scripts, APIs, plugins and digital products.
 
-Products
+---
 
-Orders
+## 📖 Documentation Sections
 
-Users
+- 🚀 Getting Started
+- 🔑 Authentication
+- 🔌 API Reference
+- 📦 Products
+- 🛒 Orders
+- 👤 Users
+- 📄 Licenses
+- 🔗 Webhooks
+- 💻 SDKs
+- 💡 Examples
 
-Licenses
+---
 
-Webhooks
+## 🌍 Official Website
 
-SDKs
+https://www.codexeron.com
 
-Examples
+---
+
+## 🚀 Our Mission
+
+Helping developers turn their code into a sustainable business.
