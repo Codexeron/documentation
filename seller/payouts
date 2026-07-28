@@ -1,0 +1,112 @@
+# Payouts
+
+The Payouts section explains how sellers receive their earnings from the Codexeron Marketplace.
+
+All payouts are processed according to the current marketplace payment policy.
+
+---
+
+# Overview
+
+Your earnings become available for payout after eligible sales have been processed.
+
+The payout section allows you to:
+
+- View your available balance
+- Review payout history
+- Monitor payout status
+- Manage your payout information
+
+---
+
+# Supported Payment Method
+
+Codexeron currently supports payouts via:
+
+- USDT (Tether)
+
+Additional payout methods may be introduced in future releases.
+
+---
+
+# Payout Request
+
+When payout requests are available, sellers can request a payout from their available balance.
+
+Before requesting a payout, ensure that:
+
+- Your payout information is correct.
+- Your available balance meets the minimum payout requirements (if applicable).
+- Your account complies with marketplace policies.
+
+---
+
+# Payout Status
+
+A payout request may have one of the following statuses:
+
+| Status | Description |
+|--------|-------------|
+| Pending | The payout request has been received and is awaiting review or processing. |
+| Processing | The payout is currently being processed. |
+| Completed | The payout has been successfully sent. |
+| Failed | The payout could not be completed. |
+
+---
+
+# Payout History
+
+Your payout history may include:
+
+- Payout ID
+- Request Date
+- Payment Method
+- Amount
+- Status
+
+Keeping track of your payout history helps with financial records and reporting.
+
+---
+
+# Payment Security
+
+To help protect your earnings:
+
+- Verify your payout wallet address before submitting a request.
+- Never share your account credentials.
+- Protect your account with a strong password.
+- Enable Two-Factor Authentication (2FA) when available.
+
+---
+
+# Important Notes
+
+Codexeron reserves the right to delay or suspend payouts if:
+
+- Fraudulent activity is suspected.
+- Marketplace policies have been violated.
+- Additional verification is required.
+
+---
+
+# Best Practices
+
+To ensure smooth payouts:
+
+- Keep your account information up to date.
+- Review your payout details carefully.
+- Monitor your payout history.
+- Contact support if you notice unexpected activity.
+
+---
+
+# Related Documentation
+
+- Sales
+- Pricing
+- Licensing
+- FAQ
+
+---
+
+© 2026 Codexeron. All rights reserved.
