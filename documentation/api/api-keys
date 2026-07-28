@@ -1,0 +1,165 @@
+# API Keys
+
+API Keys are used to authenticate your application when communicating with the Codexeron API.
+
+Every application accessing protected resources must use a valid API Key.
+
+---
+
+# Overview
+
+An API Key uniquely identifies your application and grants access to authorized API endpoints.
+
+Each API Key should be treated as confidential information.
+
+---
+
+# Creating an API Key
+
+To create an API Key:
+
+1. Sign in to your Codexeron account.
+2. Open the **Developer Dashboard**.
+3. Navigate to **API Keys**.
+4. Click **Create API Key**.
+5. Give your key a descriptive name.
+6. Save the generated API Key securely.
+
+> **Important**
+>
+> The secret value may only be displayed once. Store it in a secure location.
+
+---
+
+# API Key Permissions
+
+Depending on your account and future platform features, API Keys may support different permission levels, such as:
+
+- Read Only
+- Read & Write
+- Product Management
+- Order Management
+- License Management
+- Webhook Management
+
+Always assign the minimum permissions required by your application.
+
+---
+
+# Using an API Key
+
+Include your API Key in the Authorization header.
+
+Example:
+
+```http
+Authorization: Bearer YOUR_API_KEY
+```
+
+---
+
+# Environment Variables
+
+Never hardcode API Keys.
+
+Recommended:
+
+```env
+CODEXERON_API_KEY=your_api_key
+```
+
+Store credentials outside your source code.
+
+---
+
+# Regenerating API Keys
+
+If an API Key is suspected to be compromised:
+
+1. Revoke the existing key.
+2. Generate a new key.
+3. Update your application configuration.
+4. Verify all integrations.
+
+---
+
+# Revoking API Keys
+
+API Keys can be revoked at any time from the Developer Dashboard.
+
+After revocation:
+
+- Existing requests will fail.
+- A new API Key will be required.
+- Applications must be updated.
+
+---
+
+# Security Recommendations
+
+Always follow these best practices:
+
+- Never publish API Keys.
+- Never commit API Keys to Git repositories.
+- Rotate API Keys periodically.
+- Use different keys for development and production.
+- Limit access to trusted systems only.
+
+---
+
+# Common Errors
+
+Possible authentication errors include:
+
+| HTTP Code | Description |
+|-----------|-------------|
+| 400 | Invalid Request |
+| 401 | Invalid or Missing API Key |
+| 403 | Access Denied |
+
+---
+
+# Best Practices
+
+For secure API usage:
+
+- Store API Keys securely.
+- Monitor API activity.
+- Rotate credentials regularly.
+- Remove unused API Keys.
+- Review permissions periodically.
+
+---
+
+# Troubleshooting
+
+If your API Key does not work:
+
+- Verify the Authorization header.
+- Confirm the key has not been revoked.
+- Check that the key has the required permissions.
+- Ensure HTTPS is used.
+
+---
+
+# Next Steps
+
+Continue with:
+
+**→ Endpoints**
+
+The Endpoints guide explains how to interact with Codexeron resources.
+
+---
+
+# Related Documentation
+
+- Authentication
+- Endpoints
+- Rate Limits
+- Error Codes
+- Security
+
+---
+
+© 2026 Codexeron. All rights reserved.
