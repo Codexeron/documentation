@@ -1,0 +1,183 @@
+# Product Requirements
+
+This document defines the minimum quality standards for products submitted to the Codexeron Marketplace.
+
+All products must comply with these requirements before they can be approved and published.
+
+---
+
+# General Requirements
+
+Every product must:
+
+- Be complete and functional.
+- Be developed by the seller or legally licensed for distribution.
+- Match its description and screenshots.
+- Be ready for production use.
+- Be free from malicious code.
+- Comply with all Codexeron Marketplace policies.
+
+---
+
+# Code Quality
+
+Products should follow accepted software development practices.
+
+Your code should be:
+
+- Clean
+- Readable
+- Well-structured
+- Maintainable
+- Properly formatted
+- Free from unnecessary files
+
+Avoid:
+
+- Obfuscated code
+- Dead code
+- Hardcoded credentials
+- Debug code
+- Unused libraries
+
+---
+
+# Documentation
+
+Every product must include documentation.
+
+Documentation should explain:
+
+- Installation
+- Configuration
+- Requirements
+- Features
+- Usage
+- Update instructions
+
+Well-written documentation improves the user experience.
+
+---
+
+# Product Files
+
+Products should include only files required for proper operation.
+
+Typical files include:
+
+- Source Code
+- Documentation
+- License Information
+- Changelog
+- Installation Guide
+
+Do not include unnecessary files.
+
+---
+
+# Security
+
+Products must follow security best practices.
+
+Products must not:
+
+- Contain malware
+- Collect personal information without consent
+- Include hidden functionality
+- Expose sensitive credentials
+- Contain known security vulnerabilities
+
+Security issues may result in immediate rejection.
+
+---
+
+# Compatibility
+
+Product descriptions should clearly state:
+
+- Supported PHP version
+- Supported framework
+- Supported database
+- Required extensions
+- Required server software
+
+Compatibility information must remain accurate.
+
+---
+
+# Product Versioning
+
+Every release must include a version number.
+
+Recommended format:
+
+```
+v1.0.0
+v1.0.1
+v1.1.0
+v2.0.0
+```
+
+A changelog should accompany each new version.
+
+---
+
+# Third-Party Components
+
+If your product includes third-party libraries or dependencies:
+
+- Ensure redistribution is permitted.
+- Comply with all applicable licenses.
+- Clearly identify included components.
+- Credit original authors where required.
+
+---
+
+# Artificial Intelligence
+
+Products created with the assistance of AI are permitted.
+
+However:
+
+- The seller remains fully responsible for the product.
+- AI-generated code must be reviewed before submission.
+- Products must meet the same quality and security standards as manually written code.
+
+---
+
+# Reasons for Rejection
+
+Products may be rejected if they:
+
+- Are incomplete
+- Contain security issues
+- Include poor documentation
+- Misrepresent functionality
+- Violate copyright or licensing rules
+- Fail to meet quality standards
+
+---
+
+# Best Practices
+
+To improve approval chances:
+
+- Test your product before submission.
+- Keep documentation up to date.
+- Use semantic versioning.
+- Follow secure coding practices.
+- Provide clear product descriptions.
+
+---
+
+# Related Documentation
+
+- Product Submission
+- Review Process
+- Product Updates
+- Licensing
+- FAQ
+
+---
+
+© 2026 Codexeron. All rights reserved.
