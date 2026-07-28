@@ -1,0 +1,135 @@
+# Payments
+
+This guide explains how payments work when purchasing digital products on the Codexeron Marketplace.
+
+Codexeron aims to provide a secure and transparent payment experience for buyers and sellers.
+
+---
+
+# Payment Overview
+
+A typical payment process includes:
+
+1. Select a product.
+2. Create an order.
+3. Complete payment.
+4. Payment verification.
+5. Order confirmation.
+6. Product and license access.
+
+---
+
+# Supported Payment Method
+
+Codexeron currently supports:
+
+- USDT (Tether)
+
+Additional payment methods may be introduced in future releases.
+
+---
+
+# USDT Payments
+
+USDT payments provide a fast and secure way to complete digital product purchases.
+
+Before sending payment:
+
+- Verify the payment information.
+- Confirm the required amount.
+- Check the transaction details carefully.
+- Send payment only through official Codexeron instructions.
+
+---
+
+# Payment Verification
+
+After payment is completed:
+
+- The transaction is verified.
+- The order status is updated.
+- Product access is enabled.
+- License information is generated when applicable.
+
+Verification times may vary depending on network conditions.
+
+---
+
+# Payment Status
+
+Payments may have the following statuses:
+
+| Status | Description |
+|--------|-------------|
+| Pending | Payment is waiting for confirmation. |
+| Confirmed | Payment has been successfully verified. |
+| Failed | Payment could not be completed. |
+| Cancelled | Payment process was cancelled. |
+
+---
+
+# Payment Security
+
+To protect your payments:
+
+- Use only official Codexeron payment instructions.
+- Verify wallet addresses carefully.
+- Never share private wallet keys.
+- Keep transaction records.
+- Avoid unofficial payment requests.
+
+---
+
+# Failed Payments
+
+If a payment fails:
+
+- Check transaction details.
+- Verify network status.
+- Confirm payment information.
+- Contact support if necessary.
+
+---
+
+# Transaction Records
+
+Your account may store payment-related information including:
+
+- Order ID
+- Payment status
+- Transaction reference
+- Purchase date
+- Product information
+
+---
+
+# Refunds
+
+Refund availability depends on the current Codexeron refund policy and applicable conditions.
+
+Buyers should review product details carefully before purchase.
+
+---
+
+# Best Practices
+
+For a smooth payment experience:
+
+- Confirm product compatibility before purchasing.
+- Check payment details carefully.
+- Keep transaction records.
+- Use a secure account.
+
+---
+
+# Related Documentation
+
+- Product Purchase
+- Downloads
+- Licensing
+- Support
+- FAQ
+
+---
+
+© 2026 Codexeron. All rights reserved.
