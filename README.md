@@ -1,151 +1,162 @@
 # 📚 Codexeron Documentation
 
-Welcome to the official documentation for **Codexeron**.
+Welcome to the official Codexeron Documentation.
 
-Codexeron is a global marketplace designed for developers to buy, sell, license, and distribute source code, scripts, APIs, plugins, templates, and other digital products.
+Codexeron is a global marketplace where developers can buy and sell source code, scripts, plugins, APIs, tools, and digital products.
 
-Whether you are a buyer, seller, or developer integrating with the Codexeron platform, this documentation will help you get started quickly.
-
----
-
-# 🚀 Getting Started
-
-New to Codexeron?
-
-Start here:
-
-- Installation
-- Requirements
-- Quick Start
-- First Project
-- Configuration
+This documentation provides general information about the Codexeron platform, marketplace processes, and developer resources.
 
 ---
 
-# 📖 Documentation
+# Documentation Sections
 
-## Marketplace
+## 🚀 Getting Started
 
-Documentation for marketplace users.
+Learn the basics of using Codexeron.
 
-- Seller Guide
-- Buyer Guide
-- Product Management
-- Orders
+Includes:
+
+- Platform overview
+- Account basics
+- Getting started guides
+
+---
+
+## 🛒 Buyer Guide
+
+Information for customers who purchase digital products.
+
+Includes:
+
+- Finding products
+- Purchasing products
 - Payments
-- Licensing
-- Refund Policy
+- Downloads
+- Licenses
+- Updates
+- Support
 
 ---
 
-## API Reference
+## 💻 Seller Guide
 
-Everything you need to integrate with Codexeron.
+Information for developers who sell digital products.
 
-- Authentication
-- API Keys
-- Endpoints
-- Request & Response Format
-- Pagination
-- Filtering
-- Sorting
-- Error Codes
-- Rate Limits
-- Webhooks
+Includes:
 
----
-
-## SDKs
-
-Official SDK documentation.
-
-- PHP SDK
-- JavaScript SDK
-- Examples
-
-More SDKs will be available in future releases.
-
----
-
-## Tutorials
-
-Step-by-step guides.
-
-Examples include:
-
-- Upload your first product
-- Purchase a product
-- Validate a license
-- Search products
-- API Integration
-- Webhook Integration
-
----
-
-## Examples
-
-Ready-to-use integration examples.
-
-- PHP
-- JavaScript
-- cURL
-- Laravel
-- Symfony
-
----
-
-## FAQ
-
-Frequently Asked Questions.
-
-Find answers to common questions about:
-
-- Marketplace
-- Sellers
-- Buyers
-- API
-- SDK
+- Seller account
+- Product publishing
+- Product requirements
+- Reviews
+- Sales
 - Payments
-- Licensing
 
 ---
 
-# 🌍 Official Website
+## 📦 Products
+
+General information about products available on Codexeron.
+
+Includes:
+
+- Product types
+- Product quality standards
+- Product information requirements
+
+---
+
+## 🔑 Licensing
+
+Information about product ownership and usage rights.
+
+Includes:
+
+- License concepts
+- Usage permissions
+- Product protection
+
+---
+
+## 💳 Payments
+
+Information about marketplace payments.
+
+Includes:
+
+- Payment process
+- USDT payments
+- Transaction security
+
+---
+
+## 🔒 Security
+
+Information about Codexeron security practices.
+
+Includes:
+
+- Account security
+- Payment security
+- Product protection
+
+---
+
+## ❓ FAQ
+
+Frequently asked questions about Codexeron.
+
+---
+
+## 🛠 Troubleshooting
+
+Solutions for common problems.
+
+---
+
+# Developer Resources
+
+Developer resources may include:
+
+- API information
+- Integration guides
+- SDK resources
+
+Detailed developer resources will be published as features become available.
+
+---
+
+# Official Website
+
+Visit:
 
 https://www.codexeron.com
 
 ---
 
-# 🤝 Contributing
+# Version
 
-We welcome contributions from the community.
+Current Documentation Version:
 
-Please read the **CONTRIBUTING.md** guide before submitting Issues or Pull Requests.
-
----
-
-# 🔒 Security
-
-Security is one of our highest priorities.
-
-If you discover a security vulnerability, please follow the instructions in **SECURITY.md** instead of opening a public issue.
+```
+v1.0.0
+```
 
 ---
 
-# 📄 License
+# Contributing
 
-This project is distributed under the project's license.
+We welcome feedback and improvements.
 
-See the **LICENSE** file for more information.
+For contribution guidelines, see:
 
----
-
-# 🚀 Our Mission
-
-Helping developers turn their code into a sustainable business by providing a secure, reliable, and professional marketplace for digital products.
+- CONTRIBUTING.md
 
 ---
 
-# ❤️ Thank You
+# License
 
-Thank you for using Codexeron and being part of our growing developer community.
+Documentation usage is subject to Codexeron policies.
+
+---
+
+© 2026 Codexeron. All rights reserved.
