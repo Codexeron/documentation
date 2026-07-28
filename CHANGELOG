@@ -1,0 +1,82 @@
+# Changelog
+
+All notable changes to the Codexeron Documentation project will be documented in this file.
+
+The format is based on Keep a Changelog and follows Semantic Versioning (SemVer).
+
+---
+
+## [1.0.0] - 2026-07-28
+
+### Added
+
+- Initial release of the official Codexeron Documentation repository.
+- Documentation repository structure created.
+- Official documentation homepage.
+- Getting Started section.
+- Marketplace documentation structure.
+- API documentation structure.
+- SDK documentation structure.
+- Tutorials section.
+- Examples section.
+- FAQ section.
+
+### Documentation
+
+- Initial documentation architecture.
+- Standardized Markdown structure.
+- Repository navigation improvements.
+
+### Community
+
+- Documentation prepared for GitHub Pages compatibility.
+- Documentation prepared for future OpenAPI integration.
+- Documentation prepared for future SDK documentation.
+
+---
+
+## Upcoming
+
+### Planned
+
+- Installation Guide
+- Requirements
+- Configuration
+- Quick Start
+- First Project
+- Seller Guide
+- Buyer Guide
+- Payments
+- Licensing
+- Orders
+- Authentication
+- API Keys
+- Endpoints
+- Error Codes
+- Rate Limits
+- Response Format
+- Webhooks
+- PHP SDK Documentation
+- JavaScript SDK Documentation
+- Tutorials
+- Integration Examples
+
+---
+
+## Versioning
+
+This project follows Semantic Versioning.
+
+Version format:
+
+MAJOR.MINOR.PATCH
+
+Example:
+
+1.0.0
+
+1.0.1
+
+1.1.0
+
+2.0.0
