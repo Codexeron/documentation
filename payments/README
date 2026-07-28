@@ -1,0 +1,119 @@
+# Payments
+
+Welcome to the Codexeron Payments Documentation.
+
+This section provides general information about payments, transactions, and marketplace payment processes.
+
+Codexeron aims to provide a secure and transparent payment experience for buyers and sellers.
+
+---
+
+# Payment Overview
+
+The Codexeron payment process includes:
+
+1. Product selection
+2. Order creation
+3. Payment submission
+4. Payment verification
+5. Order completion
+6. Product access
+
+---
+
+# Supported Payment Method
+
+Codexeron currently supports:
+
+- USDT (Tether)
+
+Additional payment methods may be introduced in future releases.
+
+---
+
+# USDT Payments
+
+USDT provides a fast and flexible payment method for digital product purchases.
+
+Before completing a payment:
+
+- Verify payment information.
+- Confirm the required amount.
+- Use only official Codexeron payment instructions.
+- Keep transaction records.
+
+---
+
+# Payment Verification
+
+After payment submission:
+
+- Transaction information is checked.
+- Payment status is updated.
+- Order completion is processed.
+- Product access is provided when applicable.
+
+Verification time may vary depending on network conditions.
+
+---
+
+# Order Status
+
+Payments and orders may have different statuses:
+
+| Status | Description |
+|--------|-------------|
+| Pending | Payment is waiting for confirmation. |
+| Completed | Payment has been successfully processed. |
+| Failed | Payment could not be completed. |
+| Cancelled | The transaction was cancelled. |
+
+---
+
+# Seller Payments
+
+Eligible seller earnings are processed according to Codexeron marketplace policies.
+
+Seller payment information may include:
+
+- Total sales
+- Marketplace fees
+- Available balance
+- Payment history
+
+---
+
+# Payment Security
+
+For a secure payment experience:
+
+- Verify wallet addresses carefully.
+- Never share private keys.
+- Use official Codexeron channels.
+- Protect account credentials.
+- Keep transaction information secure.
+
+---
+
+# Refunds
+
+Refund processes depend on:
+
+- Product conditions
+- Marketplace policies
+- Payment status
+- Applicable rules
+
+Detailed refund policies may be published on the official website.
+
+---
+
+# Learn More
+
+For detailed payment information and current policies, visit:
+
+https://www.codexeron.com
+
+---
+
+© 2026 Codexeron. All rights reserved.
