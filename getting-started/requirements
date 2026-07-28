@@ -1,0 +1,147 @@
+# Requirements
+
+This document describes the minimum and recommended requirements for developing applications with the Codexeron platform.
+
+Meeting these requirements ensures the best compatibility, performance, and security.
+
+---
+
+# Minimum Requirements
+
+| Component | Minimum Version |
+|------------|-----------------|
+| PHP | 8.3 |
+| Composer | Latest Stable |
+| Git | Latest Stable |
+| HTTPS | Required |
+| Internet Connection | Required |
+
+---
+
+# Recommended Requirements
+
+For the best development experience, we recommend:
+
+| Component | Recommended |
+|------------|-------------|
+| PHP | Latest Stable |
+| Composer | Latest Stable |
+| Git | Latest Stable |
+| Visual Studio Code | Latest Version |
+| PhpStorm | Latest Version |
+| Postman | Latest Version |
+
+---
+
+# Supported Operating Systems
+
+Development is officially supported on:
+
+- Windows
+- Linux
+- macOS
+
+---
+
+# Supported Web Servers
+
+Applications can be developed using:
+
+- Apache
+- Nginx
+- Caddy
+
+---
+
+# Required PHP Extensions
+
+The following PHP extensions should be enabled:
+
+- cURL
+- JSON
+- OpenSSL
+- mbstring
+- fileinfo
+
+Additional extensions may be required depending on your application.
+
+---
+
+# Network Requirements
+
+Your environment should allow:
+
+- HTTPS connections
+- Secure TLS communication
+- Outbound API requests
+- DNS resolution
+
+---
+
+# Development Tools
+
+Recommended tools:
+
+- Visual Studio Code
+- PhpStorm
+- Git
+- Composer
+- Postman
+
+---
+
+# Browser Support
+
+The Codexeron platform supports all modern browsers, including:
+
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+- Safari
+
+---
+
+# Security Recommendations
+
+To improve development security:
+
+- Keep PHP updated.
+- Keep Composer dependencies updated.
+- Use HTTPS for all API communication.
+- Protect API keys and credentials.
+- Enable Two-Factor Authentication (2FA) when available.
+
+---
+
+# Performance Recommendations
+
+For improved performance:
+
+- Use the latest supported PHP version.
+- Enable OPcache.
+- Keep dependencies updated.
+- Use persistent HTTPS connections where possible.
+
+---
+
+# Compatibility
+
+Codexeron is designed to maintain backward compatibility whenever possible.
+
+Breaking changes are introduced only in major releases and are documented in the release notes.
+
+---
+
+# Next Steps
+
+Your environment now meets the recommended requirements.
+
+Continue with:
+
+**→ Configuration**
+
+The next guide explains how to configure your development environment before making your first API request.
+
+---
+
+© 2026 Codexeron. All rights reserved.
