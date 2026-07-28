@@ -1,0 +1,155 @@
+# Product Submission
+
+This guide explains how to submit a product to the Codexeron Marketplace.
+
+Every submitted product is reviewed before it becomes publicly available.
+
+---
+
+## Before You Submit
+
+Before submitting your product, make sure that:
+
+- You are the original author or have the legal right to distribute the product.
+- Your product is complete and functional.
+- All required files are included.
+- Documentation is provided.
+- The product has been tested.
+- The product complies with the Codexeron Marketplace Rules.
+
+Products that do not meet these requirements may be rejected.
+
+---
+
+## Submission Process
+
+The product submission process consists of the following steps:
+
+1. Create a new product.
+2. Select the appropriate category.
+3. Enter product information.
+4. Upload product files.
+5. Upload product images.
+6. Add documentation.
+7. Select a license.
+8. Set the product price.
+9. Submit for review.
+
+Once submitted, the product enters the review queue.
+
+---
+
+## Required Information
+
+Each product submission should include:
+
+- Product Name
+- Short Description
+- Full Description
+- Category
+- Version Number
+- Supported PHP Version
+- Framework (if applicable)
+- Tags
+- Demo URL (Optional)
+- Documentation
+- Changelog
+
+Providing complete information helps speed up the review process.
+
+---
+
+## Required Files
+
+Your submission should include:
+
+- Source Code
+- Documentation
+- License Information
+- Installation Guide
+- Update History
+
+Additional files may be requested during the review process.
+
+---
+
+## Product Images
+
+Every product should include high-quality images.
+
+Recommended images include:
+
+- Product Thumbnail
+- Screenshots
+- Dashboard Preview
+- Feature Highlights
+
+Images should accurately represent the product.
+
+---
+
+## Review Queue
+
+After submission, your product enters the review queue.
+
+The review process checks:
+
+- Product quality
+- Code quality
+- Security
+- Documentation
+- Functionality
+- Compliance with marketplace rules
+
+Products may be approved, returned for revision, or rejected.
+
+---
+
+## Updating a Submission
+
+If your submission is returned for revision:
+
+- Review the feedback carefully.
+- Apply the requested changes.
+- Upload a new version.
+- Resubmit the product.
+
+---
+
+## Common Reasons for Rejection
+
+Products may be rejected for reasons such as:
+
+- Incomplete files
+- Poor documentation
+- Broken functionality
+- Security issues
+- Copyright violations
+- Misleading product information
+- Low-quality code
+
+---
+
+## Best Practices
+
+To improve approval chances:
+
+- Test your product thoroughly.
+- Write clear documentation.
+- Use clean and maintainable code.
+- Keep product information accurate.
+- Include useful screenshots.
+
+---
+
+## Related Documentation
+
+- Product Requirements
+- Review Process
+- Product Updates
+- Licensing
+- FAQ
+
+---
+
+© 2026 Codexeron. All rights reserved.
