@@ -1,0 +1,131 @@
+# Quick Start
+
+Welcome to the Codexeron Quick Start Guide.
+
+This guide will help you make your first successful request to the Codexeron API in just a few minutes.
+
+---
+
+# Before You Begin
+
+Before continuing, make sure you have completed the following steps:
+
+- Installed PHP 8.3 or later
+- Installed Composer
+- Created a Codexeron account
+- Generated an API Key
+- Completed the Configuration guide
+
+---
+
+# Step 1 — Get Your API Key
+
+Sign in to your Codexeron account.
+
+Navigate to:
+
+Developer Dashboard → API Keys
+
+Create a new API Key and store it securely.
+
+Never share your API Key publicly.
+
+---
+
+# Step 2 — Configure Your Environment
+
+Example environment variables:
+
+```env
+CODEXERON_API_URL=https://api.codexeron.com
+CODEXERON_API_KEY=your_api_key
+```
+
+---
+
+# Step 3 — Your First API Request
+
+Example request:
+
+```http
+GET /v1/products
+Authorization: Bearer YOUR_API_KEY
+Accept: application/json
+```
+
+---
+
+# Example Response
+
+```json
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "Example Product"
+    }
+  ]
+}
+```
+
+---
+
+# Step 4 — Handle Errors
+
+Always validate the response before processing data.
+
+Common HTTP status codes:
+
+| Code | Description |
+|------|-------------|
+| 200 | Success |
+| 201 | Resource Created |
+| 400 | Bad Request |
+| 401 | Unauthorized |
+| 403 | Forbidden |
+| 404 | Not Found |
+| 429 | Too Many Requests |
+| 500 | Internal Server Error |
+
+---
+
+# Best Practices
+
+For the best experience:
+
+- Store API Keys securely.
+- Always use HTTPS.
+- Validate API responses.
+- Handle exceptions correctly.
+- Respect API rate limits.
+- Keep your dependencies updated.
+
+---
+
+# Next Steps
+
+Congratulations!
+
+You have completed the Quick Start guide.
+
+Continue with:
+
+**→ First Project**
+
+The next guide demonstrates how to build your first application using the Codexeron platform.
+
+---
+
+# Additional Resources
+
+- Installation
+- Requirements
+- Configuration
+- API Reference
+- SDK Documentation
+- Tutorials
+
+---
+
+© 2026 Codexeron. All rights reserved.
